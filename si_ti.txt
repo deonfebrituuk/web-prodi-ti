@@ -1,0 +1,31 @@
+- Mahasiswa	
+	- tahun angkatan
+	- nim
+	- nama
+	- status
+	- idGambar
+- about 
+	- deskripsi
+	
+- profil
+	- visi
+	- misi
+	- idGambar /logo
+
+- dosen
+	- nama
+	- nidn
+	- ttl
+	- jabatan
+	- sertifikasi
+	- idGambar
+
+- kegiatan
+	- nama_kegiatan
+	- deskripsi
+	- idGambar
+- gambar
+	- id
+	- nama
+	- tipe 
+- user
